@@ -20,6 +20,10 @@ categories: jekyll update
 
 >> Sidekiq 发送邮件 / 图片处理
 
+>> EventMachine 使用
+
+>> Goliath 源码分析与实践
+
 > Elixir
 
 >> immutable实践
